@@ -1,5 +1,10 @@
 # Olá, me chamo Raimundo Mota!
 
+- Formado em Análise e Desenvolvimento de Sistemas 👨‍🎓💙
+- Estudo ferramentas Back-end a 3 anos 🖥🧠
+- Atualmente estudando Python, Node.Js e MongoDB 🐍🌱💚
+- Java Developer ☕❤
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">

@@ -1,7 +1,7 @@
 # Olá, me chamo Raimundo Mota!
 
 - Formado em Análise e Desenvolvimento de Sistemas 👨‍🎓💙
-- Estudo ferramentas Back-end a 3 anos 🖥🧠
+- Estudo ferramentas Back-end a 4 anos 🖥🧠
 - Atualmente estudando C#, Node.Js e MongoDB 🌱💚
 - Java Developer ☕❤
 
@@ -23,7 +23,7 @@
  
 <div> 
   <a href = "mailto:raimundomotadeol@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="[https://www.linkedin.com/in/raimundo-mota-6715b5251]" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="[https://www.linkedin.com/in/raimundomota/]" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
 

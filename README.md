@@ -2,12 +2,13 @@
 
 - Formado em Análise e Desenvolvimento de Sistemas 👨‍🎓💙
 - Estudo ferramentas Back-end a 3 anos 🖥🧠
-- Atualmente estudando Python, Node.Js e MongoDB 🐍🌱💚
+- Atualmente estudando C#, Node.Js e MongoDB 🌱💚
 - Java Developer ☕❤
 
 # Tech Stack
 <div style="display: inline_block"><br>
   <img align="center" alt="Rai-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Rai-CSharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Rai-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rai-MdB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg">
   <img align="center" alt="Rai-NjS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
